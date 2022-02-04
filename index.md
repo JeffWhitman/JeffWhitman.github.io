@@ -9,3 +9,5 @@ I decided to type this with Visual Code.
 # Another New Change.
 
 I wanted to enter this on a branch and then push it.
+
+Making a new change via Atom.
